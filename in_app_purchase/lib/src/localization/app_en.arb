@@ -1,0 +1,6 @@
+{
+  "appTitle": "in_app_purchase",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
